@@ -103,19 +103,33 @@ $ heroku open
 
 ## Technology used
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
 &nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 &nbsp;&nbsp;
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 &nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+[<code><img height="30" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png"></code>](https://git-scm.com/downloads)
 &nbsp;&nbsp;
-<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg"></code>
+[<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>](https://code.visualstudio.com/)
 &nbsp;&nbsp;
-<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-plain.svg"></code>
+[<code><img height="30" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/heroku/heroku-plain.svg"></code>](https://heroku.com)
 &nbsp;&nbsp;
-<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code> 
+[<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>](https://reactjs.org/)
+&nbsp;&nbsp;
+[<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>](https://nodejs.org/en/)
+&nbsp;&nbsp;
+[<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>](https://expressjs.com/)
+&nbsp;&nbsp;
+[<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>](https://www.mongodb.com/)
+&nbsp;&nbsp;
+[<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"></code>](https://www.docker.com/)
+&nbsp;&nbsp;
+[<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>](https://www.postman.com/)
+&nbsp;&nbsp;
+
+<iframe src="https://giphy.com/embed/Yr0WpfGegdgcdqZXcL" width="480" height="204" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/boxofficebuz-ironman-avengers-endgame-pepper-potts-Yr0WpfGegdgcdqZXcL">via GIPHY</a></p>
+
 
 
 
