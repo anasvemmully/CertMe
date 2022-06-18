@@ -130,6 +130,16 @@ See my deployment on Heroku [Click Here 👆🏼](https://cert-me.herokuapp.com/
 [<code><img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>](https://www.postman.com/)
 &nbsp;&nbsp;
 
+## Future Improvements
+
+- Need to fix page refresh issue.
+- Need to transform the CertMe to  Q&A CertMe.
+- Need to improve the UI and implement Dark Theme.
+- Need to Optimize the build.
+- Need to implement Token based Authentication.
+- Need to implement OAuth.
+- Need to implement Forgot Password Mechanism.  
+
 ## License
 
 Free to use and modify, just follow me ⭐.
