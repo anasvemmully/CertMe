@@ -1,7 +1,7 @@
 # Dockerfile for Node Express Server
 
 # Build react client
-FROM node:16.15.1
+FROM node:16.20
 
 # Working directory be app
 WORKDIR /usr/src/app
