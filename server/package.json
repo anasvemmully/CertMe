@@ -19,7 +19,7 @@
     "googleapis": "^100.0.0",
     "hbs": "^4.2.0",
     "http-errors": "~1.6.3",
-    "joi": "^17.6.0",
+    "joi": "^17.9.2",
     "joi-password-complexity": "^5.1.0",
     "libreoffice-convert": "^1.4.1",
     "mongoose": "^6.3.4",
